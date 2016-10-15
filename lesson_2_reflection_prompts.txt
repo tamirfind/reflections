@@ -3,6 +3,7 @@ it creates a folder with git configurations, to declare you're starting to use g
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It allows us to keep working on files without commiting them all at once. we can just commit the files we want and check their influence on the program
 
 How can you use the staging area to make sure you have one commit per logical
 change?
